@@ -1,0 +1,117 @@
+*{
+	font-family: Garamond;
+	color: #67893;
+	text-align: center;
+}
+
+body{
+	width: 960px;
+	margin: 0 auto;
+	border: groove;
+}
+nav {
+	background-color: #b3b296 ;
+	padding: 10px;
+	margin: 10px;
+}
+li{
+	display: inline;
+	padding: 10px;
+}
+section{
+	overflow: auto;
+	height: 100%;
+	clear: both;
+}
+main{
+	background-color: white;
+	padding: 10px;
+	margin: 10px;
+}
+.twitter{
+	background-color: #da1a34;
+}
+.mart{
+	background-color: black;
+}
+.mart2{
+	background-color: white;
+	font-size: 16px;
+	float: left;
+}
+.power{
+	width: 250px;
+	height: 300px;
+	margin: 0 10px;
+	float: left;
+	text-align: center;
+}
+.mart3{
+	float: left;
+	background-color: white;
+	font-size: 16px;
+	width: 200px;
+}
+.mart4{
+	background-color: white;
+	text-align: center;
+	font-size: 16px;
+	width: 95%;
+	margin-block: 20px;
+}
+.jean{
+	background-color: black;
+	float: left;
+	height: 395px;
+    text-align: center;
+	margin: 80px;
+}
+.sand{
+	background-color: #da1a34;
+	float: left;
+	height: 395px;
+    text-align: center;
+    margin: 80px;
+}
+.kylie{
+	background-color: #da1a34;
+	float: left;
+	height: 395px;
+    text-align: center;
+    margin: 80px;
+    margin-bottom: 150px;
+}
+.duckie{
+	background-color: black;
+	float: left;
+	height: 395px;
+    text-align: center;
+    margin: 80px;
+    margin-bottom: 150px;
+}
+.list li{
+	display: list-item;
+	margin-left: 50px;
+	padding-right: 50px;
+}
+.park li{
+	display: list-item;
+	margin-left: 50px;
+	padding-right: 50px;
+}
+.clover li{
+	display: list-item;
+	margin-left: 50px;
+	padding-right: 50px;
+}
+article{
+	background-color: black;
+	padding: 10px;
+	margin: 10px;
+	width: 280px;
+	float: right;
+}
+
+
+
+
